@@ -1,0 +1,258 @@
+{
+  "navbar": {
+    "home": "home",
+    "projects": "projects",
+    "blogs": "overview",
+    "about": "about",
+    "contact": "contact",
+    "donate": "donate"
+  },
+  "homepage": {
+    "banner": {
+      "title": "LET US PROSPER TOGETHER",
+      "body": "We started our journey a few years ago with only one goal. The goal is to minimize the discrimination between rich and poor. Irrespective of caste and creed, we want everyone to thrive spontaneously. With the ideology of the great leader  <strong style='color: orange'>OTTOMAN</strong>, we want to bring the glory once he is left behind. One day we will make a world full of peace, without hunger, where everyone will dream for a better future."
+    },
+    "whatwedo": {
+      "title": "what we do",
+      "subtitle": "we rise by lifting others",
+      "body": "OTTOMAN INTERNATIONAL tackles the issues of ecology, human rights and eradication of poverty simultaneously in order to make sustainable living possible. Our goal is to provide a sustainable life for all living beings."
+    },
+    "photogallery": {
+      "title": "photo gallery",
+      "button": "click for more"
+    },
+    "parallex": {
+      "titleOne": "Number of Beneficiaries",
+      "titleTwo": "Number of Volunteeries",
+      "titleThree": "Number of Employees"
+    },
+    "recentProjects": {
+      "title": "recent projects",
+      "buttonOne": "details",
+      "buttonTwo": "read more"
+    },
+    "quote": "You shall not attain righteousness until you spend out of what you love in the way of Allah. Allah knows whatever you spend.",
+    "quoteAuthor": "Al Imran - 92",
+    "joinus": {
+      "title": "join us",
+      "body": "JOIN OUR TEAM AND CONTRIBUTE IN BRINGING THE ULITIMATE PROSPERITY"
+    },
+    "recentblogs": "projects descriptions",
+    "videogallery": "video gallery"
+  },
+  "projects": {
+    "waterwell": "Water Well Project",
+    "fountain": "Wudhu Khana Project",
+    "quran": "Quran Distribution",
+    "orphan": "Orphan Support",
+    "social": "Social Liabilities Project",
+    "social_insaat": "Social Construction Project",
+    "kurban": "Qurban Organization"
+  },
+  "blogs": {
+    "1000": {
+      "title": "Water Well Project",
+      "date": "10/10/2021",
+      "body": "In Bangladesh, which has a population of 180 million, approximately 60% of its population lives in villages. And the main occupation of these people is farmers. Due to the seasonal floods, storms, other natural disasters, & also other problems, people in Bangladesh are facing a shortage of drinking water.<br><br> Firstly, we identify the places that are facing drinking water problems with the help of our fieldworkers. Afterward, we check the depth of groundwater level, so that we can set up a deep tubewell based on its deepness.<br><br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1001": {
+      "title": "Wudhu Khana Project",
+      "date": "02/07/2021",
+      "body": "In Bangladesh, which has a population of 180 million, approximately 60% of its population lives in villages. And the main occupation of these people is farmers. Due to the seasonal floods, storms, other natural disasters, & also other problems, people in Bangladesh are facing a shortage of drinking water. In addition, there are not sufficient ablution places in mosques in the village.<br><br>Firstly, we identify the places that are facing drinking water problems with the help of our fieldworkers. Afterward, we check the depth of groundwater level, so that we can set up a deep tubewell based on its deepness.<br><br><br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1002": {
+      "title": "Quran Distribution Project",
+      "date": "17/03/2021",
+      "body": "The first verse revealed to our Prophet (PBUH) is 'Read, ˹O Prophet,˺ in the Name of your Lord Who created!' For obeying this order and delivering Holy Quran to people, a project called -Quran Gift Distribution- is carried out by Ottoman International Organization & Construction. <br><br>Under this project, Qur'an with Bengali meaning is being provided as a gift to both students and general people. In madrasahs or Islamic schools, the Qur'an & Rehals are also distributed.<br><br><br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1003": {
+      "title": "Orphan Support",
+      "date": "08/06/2021",
+      "body": "According to a statistic made in 2021, the number of orphaned children is 153 million around the world. But the actual number is more than that. We should know that if an orphan smiles, the world smiles. <br><br> Allah says in the Qur'an: <br> وَيُطْعِمُونَ الطَّامَ عَلَى حُبِّهِ مِسْكِيْنًا وَيَتِيْمًا وَأَسِيْرًا،<br><br> They feed their food to the poor, orphans, and captives. <br><br> Our Prophet (PBUH) says, If a person takes an orphan among Muslims and takes him to his home to feed and drink, Allah will put him in Paradise unless he commits an unforgivable crime -Tirmidhi, Birr 14. <br><br> Considering the following verses, hadith, and social responsibilities, Ottoman International Organization & Construction provides orphan clothing, monthly scholarship support for orphans carries out projects. <br><br> <br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1004": {
+      "title": "Social Liabilities Project",
+      "date": "08/02/2022",
+      "body": "Humans are social creatures. Human society is directly or indirectly dependent on each other. For this reason, it is must duty to raise our hands towards needy people.<br><br>As Ottoman International Organization & Construction, it carries out a project called the <strong>Social Responsibility Project</strong> to meet the needs of people in need of help in the society.<br><br>Under this project, We supply ready food, dry food, iftar supports, tree plantation, etc. In addition, we also support the people who face natural disasters such as storms & floods.<br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1005": {
+      "title": "Social Construction Project",
+      "date": "08/02/2022",
+      "body": "The accommodation problem is one of the terrible problems for the people living in underdeveloped countries whose financial situation is not well. According to a statistic made in 2020, the number of homeless people in the world is around 100 million. But the actual number is more than that.<br><br>By considering this important issue, Ottoman International Organization & Construction brings a new project called the <strong>Social Construction Project</strong>.<br><br>Under this project, there are some pre-planned projects such as accommodation support for homeless families, orphanages for orphans, schools, dormitories for students, madrasah, mosque construction for village people.<br><br>Interested organizations can contact us for a cooperation agreement."
+    },
+    "1006": {
+      "title": "Qurban Organization",
+      "date": "08/02/2022",
+      "body": "Ottoman International Organization Construction carries out various social activities with a large working team to bring aid to the places where it is needed. Our Sacrifice Organization is one of them. We organize all types of Qurban projects you will make such as Akika, Nawafil, Wajib & others.<br><br><strong>How Does Our Qurbani Organization Work?</strong><br>We carefully select Qurbani animals. With your support, we will receive your power of attorney and create your registration. The slaughtered Qurbans are divided into shares according to the conditions and given to the poor and needy orphans. We share the videos of the Qurbani with our valuable customers. Within these steps, we can successfully complete our project.<br><br>Interested organizations can contact us for a cooperation agreement."
+    }
+  },
+  "projectdetails": {
+    "waterwell": {
+      "100": {
+        "title": "december",
+        "date": "10/12/2021",
+        "body": "Under the <strong>Water Well Project</strong>, Ottoman International Organization & Construction installed a new tubewell at Barakhata village in Bangladesh with the help of the Bozkurt Family."
+      },
+      "101": {
+        "title": "october",
+        "date": "02/10/2021",
+        "body": "Under the <strong>Water Well Project</strong>, our team installed a new tubewell at Votmari in <br> Bangladesh with the help of the Yılmaz Family."
+      },
+      "102": {
+        "title": "july",
+        "date": "17/07/2021",
+        "body": "Under the <strong>Water Well Project</strong>, Our workers installed a new tubewell at Baura Village in Bangladesh in the name of <strong>“10. Dönem Pomem Mezunları ve Şehitleri”</strong>"
+      }
+    },
+    "fountain": {
+      "200": {
+        "title": "Wudhu Khana - 4 Seat",
+        "date": "12/12/2021",
+        "body": "Under the <strong>Wudhukhana Project</strong>, With the joint cooperation of another brotherhood organization,  Ottoman International Organization & Construction installed a new Wudhukhana at Dolapara Village in Bangladesh with the help of the <strong>Ramazan İzol & his friends</strong>."
+      },
+      "201": {
+        "title": "Wudhu Khana - 8 Seat",
+        "date": "11/10/2021",
+        "body": "Under the Wudhukhana project, Ottoman International Organization & Construction installed a new wudhukhana with 8 tapes at doikhoya Village in Bangladesh with the help of the Mavi Family."
+      },
+      "202": {
+        "title": "Wudhu Khana - 10 Seat",
+        "date": "12/07/2021",
+        "body": "Under the Wudhukhana project, Ottoman International Organization & Construction installed a new wudhukhana with 10 tapes at Goddimari village in Bangladesh in the name of Hz. Hacı Akfirat (Rah)"
+      },
+      "203": {
+        "title": "Wudhu Khana - 20 Seat",
+        "date": "20/05/2021",
+        "body": "Under the Wudhukhana project, With the joint cooperation of another brotherhood organization,  Ottoman International Organization & Construction installed a new Wudhukhana with 20 tapes at Barakhata Village in Bangladesh with the help of the ‘’Ulutaş family’’."
+      }
+    },
+    "quran": {
+      "300": {
+        "title": "QURAN DONATION",
+        "date": "1/12/2021",
+        "body": "Under the Education Support Project, With the help of Turkish Citizens & an NGO, Ottoman International Organization & Construction has opened a Quran Course at Cox's Bazar District in Bangladesh."
+      },
+      "301": {
+        "title": "QURAN DONATION",
+        "date": "10/2/2021",
+        "body": "Under the Quran Distribution Project, Ottoman International Organization & Construction distributed 10 pieces of Quran at Baura village in Bangladesh"
+      },
+      "302": {
+        "title": "QURAN DONATION",
+        "date": "15/4/2021",
+        "body": "Under the Quran Distribution Project, On behalf of Turkish Citizens, Our team distributed 20 pieces of Quran & Rahle at Batısarudubi village in Bangladesh"
+      }
+    },
+    "orphan": {
+      "400": {
+        "title": "Orphan Sponsorship",
+        "date": "12/7/2021",
+        "body": "Under the Orphan Sponsorship, Ottoman International Organization & Construction provides a monthly stipend to poor, orphan & Hifz-Ul-Quran students at Baura village in Bangladesh with the help of Turkish Citizens. Students will receive their stipend for 24 months from July 2021."
+      },
+      "401": {
+        "title": "Orphan Sponsorship",
+        "date": "12/8/2021",
+        "body": "Under the Orphan Sponsorship, Ottoman International Organization & Construction provides a monthly stipend to poor, orphan & Hifz-Ul-Quran students at Baura village in Bangladesh with the help of Turkish Citizens. Students will receive their stipend for 24 months from July 2021."
+      }
+    },
+    "social": {
+      "500": {
+        "title": "Tree Plantation",
+        "date": "10/11/2021",
+        "body": "Under the Social Liabilities project, Our Organization planted some fruits trees Batisarudubi Village in Bangladesh with the help of some Turkish Citizens."
+      },
+      "501": {
+        "title": "Distribution of Supplies",
+        "date": "15/8/2021",
+        "body": "Our team supplied foodstuffs at Baura village in Bangladesh with the help of Engin Duman."
+      },
+      "503": {
+        "title": "BLANKET DISTRIBUTION",
+        "date": "31/12/2021",
+        "body": "Under the Social Liabilities project, Our Organization supplied a set of blankets to a Madrasha-Orphanage at Fokirpara village in Bangladesh with the help of some Turkish Citizens."
+      }
+    },
+    "social_insaat": {
+      "600": {
+        "title": "mosque",
+        "date": "24/11/2021",
+        "body": "Under the Social Construction Project, Ottoman International Organization & Construction has completed a new mosque construction with 100 m2 at Barakhata village in Bangladesh."
+      },
+      "601": {
+        "title": "accomodation",
+        "date": "31/12/2021",
+        "body": "Under the Social Construction Project, Ottoman International Organization & Construction has constructed a new 30 m2 house for a family at Dolapara village in Bangladesh."
+      },
+      "602": {
+        "title": "Madrasah and Orphanage",
+        "date": "30/12/2021",
+        "body": " "
+      }
+    },
+    "kurban": {
+      "700": {
+        "title": "big animal",
+        "date": "30/6/2021",
+        "body": "Under the Qurbani Organization project, On behalf of a Turkish Citizen, Ottoman International Organization & Construction supplies a Qurbani animal to a madrasah at Burimari Village in Bangladesh"
+      },
+      "701": {
+        "title": "small animal",
+        "date": "13/11/2021",
+        "body": "Under the Qurbani Organization project, On behalf of a Turkish Citizen, Ottoman International Organization & Construction supplies a Qurbani animal at Zongra Village in Bangladesh"
+      }
+    }
+  },
+  "publisheinfo": {
+    "author": "author",
+    "date": "date",
+    "published": "published"
+  },
+  "aboutpage": {
+    "sidebartitles": {
+      "whoarewe": "who are we",
+      "ourmission": "our mission",
+      "boardofdirectors": "board of directors",
+      "ourvalues": "our values"
+    },
+    "whoarewe": "Ottoman International Organization Construction Ltd. was founded in 2021 by SHIHAB AHMED with the aim and passion to change the world and make it a better, fairer, and more sustainable place.",
+    "ourmission": "Conscious of our material and moral values, our volunteers, who are concerned about the problems of humanity, especially the Anatolian people and especially the Islamic Ummah, and who seek solutions for the problems of humanity, gather the aid of our volunteers under a corporate roof, and knowing the problems of Muslims wherever they are, we ensure the unity and love of humanity among Muslims. is to serve",
+    "ourvalues": {
+      "sustainability": "While we create the present in all our works, we act with the awareness that the responsibility of the future is on us. Considers the fine but important line between our needs and wants",
+      "respect": "Respect is the basis of all our projects, especially our trainings. With our projects, we want to create a change and add something to the lives of the people who participate in these programs, while we respect people's current cultures and preferences.",
+      "transparency": "Since the understanding of respect is embedded in all of our projects, we handle all our affairs with great transparency. You can follow every moment of the help you give. Therefore, trust is endless"
+    },
+    "ourvaluestitles": {
+      "sustainability": "sustainability",
+      "respect": "respect",
+      "transparency": "transparency"
+    }
+  },
+  "contactpage": {
+    "contact": "Contact Us",
+    "name": "Name",
+    "yourname": "Org. Name",
+    "email": "E-Mail",
+    "youremail": "Your E-Mail",
+    "message": "Message",
+    "button": "Send",
+    "contactlinks": "Contact Links",
+    "address": "Address",
+    "director": "FOUNDER & CEO",
+    "assistantDirector": "ASSISTANT DIRECTOR"
+  },
+  "shareon": "share on",
+  "footer": {
+    "aboutus": {
+      "title": "about us",
+      "body": "We started our journey a few years ago with only one goal. The goal is to minimize the discrimination between rich and poor. Irrespective of caste and creed, we want everyone to thrive spontaneously. With the ideology of the great leader OTTOMAN, we want to bring the glory once he is left behind. One day we will make a world full of peace, without hunger, where everyone will dream for a better future."
+    },
+    "developer": "contact developer",
+    "menu": "menu",
+    "socialmedia": "social media"
+  },
+  "donatepage": {
+    "title": "bank details",
+    "subtitle": "SEND US A MESSAGE AFTER DONATING OR IF YOU ARE WILLING TO DONATE. PLEASE CHECK CONTACT PAGE FOR CONTACT INFORMATION",
+    "btn": "click me"
+  }
+}

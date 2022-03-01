@@ -1,0 +1,258 @@
+{
+  "navbar": {
+    "home": "Ana sayfa",
+    "projects": "Projeler",
+    "blogs": "Özet",
+    "about": "Bİlgİ",
+    "contact": "İletİşİm",
+    "donate": "Bağış"
+  },
+  "homepage": {
+    "banner": {
+      "title": "birlikte başarılı olalım",
+      "body": "Yolculuğumuza birkaç yıl önce tek bir hedefle başladık. Amaç, zengin ve fakir arasındaki ayrımcılığı en aza indirmektir. Kast ve inançtan bağımsız olarak, herkesin kendiliğinden gelişmesini istiyoruz. Büyük Selçuklu ve Osmanlı İmparatorluğunun ideolojisi ile geride bırakıldığı anda şanını getirmek istiyoruz. Bir gün, herkesin daha iyi bir gelecek için hayal kuracağı, açlığın olmadığı, barış dolu bir dünya yapacağız."
+    },
+    "whatwedo": {
+      "title": "ne yapıyoruz",
+      "subtitle": "başkalarını kaldırarak yükseliriz",
+      "body": "OSMANLI ULUSLARARASI, sürdürülebilir yaşamı mümkün kılmak için ekoloji, insan hakları ve yoksulluğun ortadan kaldırılması konularını aynı anda ele alıyor. Amacımız tüm canlılar için sürdürülebilir bir yaşam sağlamaktır."
+    },
+    "photogallery": {
+      "title": "fotoğraf Galerİsİ",
+      "button": "daha fazlası İçİn tıklayın"
+    },
+    "parallex": {
+      "titleOne": "Faydalanıcı Sayısı",
+      "titleTwo": "Gönüllülerin Sayısı",
+      "titleThree": "Çalışan Sayısı"
+    },
+    "recentProjects": {
+      "title": "Son yaptıĞımız Projelerİ",
+      "buttonOne": "detaylar",
+      "buttonTwo": "daha fazla oku"
+    },
+    "quote": "Allah yolunda sevdiğiniz şeylerden harcamadıkça iyiliğe asla eremezsiniz. Ne harcarsanız Allah onu hakkıyla bilir.",
+    "quoteAuthor": "- Al-i İmran Suresi - 92 . Ayet",
+    "joinus": {
+      "title": "bİze katılın",
+      "body": "EKİBİMİZE KATILIN VE EN ÜSTÜN REFAH GETİRMEYE KATKIDA BULUNUN"
+    },
+    "recentblogs": "proje detaylarI",
+    "videogallery": "video Galerİsİ"
+  },
+  "projects": {
+    "waterwell": "Su Kuyusu Projelerİ",
+    "fountain": "ÇEŞMELİ ŞADIRVANLAR",
+    "quran": "KURAN-I KERİM ORGANİZASYONU",
+    "orphan": "YETİM DESTEĞİ",
+    "social": "SOSYAL SORUMLULUK PROJESİ",
+    "social_insaat": "Sosyal İnşaat Projelerİ",
+    "kurban": "Kurban Organİzasyonu"
+  },
+  "blogs": {
+    "1000": {
+      "title": "Su Kuyusu Proje",
+      "date": "10/10/2021",
+      "body": "180 milyon nüfusu olan Bangladeş'te yaklaşık %60 nüfusu köyde yaşarlar. Ve köyde yaşayan halkın çoğunluğun temel mesleği çiftçiliktir. Mevsimsel sel baskını, fırtına, diğer doğal afiyet vb. sorunlardan dolayı köyde yaşayan insanlar içme su konusunda zorluk çekmektedir.<br><br>Ottoman Uluslararası Organizasyon İnşaat olarak geniş bir çalışma ekibimiz ile bu sorunları çözmeye çalışıyoruz. Ekibimiz ihtiyaç duyulan yerleri önce tespit edilir. Ve sonrasında yer altı suyunun derinliğini kontrol ederek 16m-80m derinliğinde hayırseverlerin desteğiyle su kuyusu açmaya hazırlık yaparlar.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1001": {
+      "title": "Şadırvan Proje",
+      "date": "02/07/2021",
+      "body": "180 milyon nüfusu olan Bangladeş'te yaklaşık %60 nüfusu köyde yaşarlar. Ve köyde yaşayan halkın çoğunluğun temel mesleği çiftçiliktir. Mevsimsel sel baskını, fırtına, diğer doğal afiyet vb. sorunlardan dolayı köyde yaşayan insanlar içme su konusunda zorluk çekmektedir. Ayrıca köydeki camii veya mescitlerde ihtiyaç olmasına rağmen yeterince kadar su kuyusu veya çeşmeli şadırvanlar mevcut değil.<br><br>Ottoman Uluslararası Organizasyon İnşaat olarak geniş bir çalışma ekibimiz ile bu sorunları çözmeye çalışıyoruz. Ekbimiz ihtiyaç duyulan yerleri önce tespit edilir. Sonrasında yer altı suyunun derinliğini kontrol ederek 16m-80m derinliğinde hayırseverlerin desteğiyle çeşmeli şadırvanları açmaya hazırlık yaparlar. Şadırvanların arasında farklılıklar mevcuttur. 4 çeşmeliden başlayıp 20 çeşmeliye kadar su depolu şadırvan açılmaktadır<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1002": {
+      "title": "KURAN-I KERİM ORGANİZASYONU",
+      "date": "17/03/2021",
+      "body": "Peygamber efendimize (SAV) indirilen ilk ayeti 'YARATAN RABBİNİN ADIYLA OKU' İnsanlara bu emrine itaat ettirmek ve Allah’ın kitabını insanlara ulaştırılmasının amacıyla ‘Ottoman Uluslararası Organizasyon İnşaat’ olarak ‘Kuran-I Kerim Organizasyonu’ adılı bir projeyi başlatmaya karar verdik.. Proje kapsamında hem öğrencilere hem de halkına Kuran-I Kerim hediye edilir. Medrese veya Mekteplerde ise Kuran ve rahle dağıtımı da yapılır.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1003": {
+      "title": "Yetİm Destek Projesİ",
+      "date": "08/06/2021",
+      "body": "2021 yılında yapılan bir istatistiğe göre dünyada yetim çocukların sayısı 153 milyondur. Ama gerçek sayı bundan daha fazlasıdır. Bilmeliyiz ki <strong>YETİM GÜLERSE DÜNYA GÜLER</strong><br><br>Allah teala Kuranda şöyle buyurur<br><br> وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِيْنًا وَيَتِيْمًا وَأَسِيْرًا،<br><strong>Onlar kendi yemeği yoksula, yetime ve esire yedirirler.</strong><br><br>Peygamber efendimiz (SAV.) şöyle buyurur <strong>Bir kimse, Müslümanların arasında bulunan bir yetimi alarak yedirip içirmek üzere evine götürürse, affedilmeyecek bir suç işlemediği takdirde, Allah Teala onu mutlaka cennete koyar.</strong> -Tirmizî, Birr 14.<br><br>Şu ayet hadis ve sosyal sorumluluklara dikkate alınarak Ottoman Uluslararası Organizasyon İnşaat yetim giydirme, yetimlere aylık burs desteği vb. projeleri yürütmektedir.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1004": {
+      "title": "Sosyal Sorumluluk Projesi",
+      "date": "08/02/2022",
+      "body": "İnsan sosyal yaratıklardır. İnsan toplumu doğrudan veya dolaylı olarak birbirine bağımlıdır. Bu nedenle toplumun zayıf kesimlerine yardım eli uzatmak toplumdaki diğer insanların görevidir.<br><br>Ottoman Uluslararası Organizasyon İnşaat olarak toplumdaki yardıma muhtaç olan insanların ihtiyaçları karşılamak için ‘Sosyal Sorumluluk Projesi’ adına bir proje yürütmektedir. Proje kapsamında toplum arasında sıcak yemek-erzak koli dağıtımı, meyve fidan dikimi, iftar desteği vb projeleri gerçekleştirilmektedir. Ayrıca sel, fırtına gibi doğal afiyetlerde yardım elimizi muhtaçlara uzatmaya gayret göstermektedir.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1005": {
+      "title": "Sosyal İnşaat Projeleri",
+      "date": "08/02/2022",
+      "body": "Gelişmemiş olan ülkelerde yaşayan maddi durumu iyi olmayan insanlar için konaklama problemi temel sıkıntılarından biridir. 2020 yılında yapılan bir istatistiğe göre dünyada evsiz yurtsuz insan sayısı 100 milyondur. Ama bilim insanlar sayıyı daha fazla olduğunu düşünürler.<br><br>Ottoman Uluslararası Organizasyon İnşaat kendi bünyesinde geniş bir çalışma ekibi ile ihtiyaç duyulan yerlere yardım götürmek için çeşitli sosyal faaliyetleri yürütmektedir. Bunun yanı sırada insanların böyle önemli bir meseleyi göz önünde bulundurarak ‘Sosyal İnşaat Projesi’ adına yeni bir projeyi hayata getirmektedir. Proje kapsamında evsiz ailelere konaklama desteği, yetimler için yetimhanesi, okul, öğrencilere yurt, mederese, köy halkına camî inşaatı ve benzer projeleri gerçekleştirmektedir.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    },
+    "1006": {
+      "title": "Kurban Organizasyonu",
+      "date": "08/02/2022",
+      "body": "Ottoman Uluslararası Organizasyon İnşaat olarak geniş bir çalışma ekibi ile ihtiyaç duyulan yerlere yardım götürmek için çeşitli sosyal faaliyetleri yürütmektedir. Kurban Organizasyonumuz onlardan. bir tanesidir. Yapacağınız tüm Adak, Akika, Şükür, Sadaka, Nafile, Vacip ve benzeri kurbanlar büyükbaş-küçükbaş fark etmeksizin organize ediyoruz.<br><br><strong>Kurban Çalışmalarımız Nasıl İşliyoruz?</strong><br>Kurbanlık vasfı taşıyan hayvanları özenle seçiyoruz.  Desteğiniz ile birlikte vekaletlerinizi alıp kaydınızı oluşturuyoruz. Kesilen kurbanlar şartlara göre paylara bölünüp yoksul, muhtaç kimsesizlere veriyoruz. Kurbanlarının Kesim Videolarını Sizlerle Paylaşıyoruz. Böylece Kurban çalışmalarımız başarıyla tamamlanır.<br><br>İş birliği yapmak isteyen Dernek, Vakıf, veya diğer resmi kurumlar da bizimle irtibata geçebilir. Organizasyonumuz iş birliği protokolü ile sosyal faaliyetleri yürütmektedir ve fatura imkanı da sunmaktadır."
+    }
+  },
+  "projectdetails": {
+    "waterwell": {
+      "100": {
+        "title": "Aralik",
+        "date": "10/12/2021",
+        "body": "Su kuyusu proje kapsamında Aralık ayında Bangladeş’teki Barakhata Köyünde Bozkurt Ailesi adına ekibimiz tarafından açtığımız su kuyusudur."
+      },
+      "101": {
+        "title": "Kasım",
+        "date": "belirtilmemiş",
+        "body": "Ottoman Uluslararası Organizasyon İnşaat olarak Su kuyusu proje kapsamında Kasım ayında Bangladeş’teki Votmari köyünde Yılmaz Ailesi adına açtığımız su kuyusudur."
+      },
+      "102": {
+        "title": "TEMMUZ",
+        "date": "17/7/2021",
+        "body": "Proje ekibimizin sayesinde Su kuyusu proje kapsamında Temmuz ayında Bangladeş’teki Baura köyünde 10. Dönem Pomem Mezunları ve Şehitleri adına açtığımız su kuyusudur. "
+      }
+    },
+    "fountain": {
+      "200": {
+        "title": "4 ÇEŞMELİ şadırvan",
+        "date": "12/12/2021",
+        "body": "Ottoman Uluslararası Organizasyon İnşaat ve bir kardeş derneğinin resmi ortaklığında Şadırvanlı Su kuyusu Proje kapsamında Aralık ayında Bangladeş’teki Dolapara köyünde <strong>Ramazan İzol ve Arkadaşları</strong> adına açtığımız 4 çeşmeli şadırvanlı su kuyusudur."
+      },
+      "201": {
+        "title": "8 ÇEŞMELİ şadırvan",
+        "date": "11/10/2021",
+        "body": "Çalışma ekibimizin sayesinde Şadırvanlı Su Kuyusu proje kapsamında Ekim ayında Bangladeş’teki Doikhoya köyünde Mavi Ailesi adına yaptığımız 8 çeşmeli su kuyusudur."
+      },
+      "202": {
+        "title": "10 ÇEŞMELİ şadırvan",
+        "date": "12/07/2021",
+        "body": "Proje ekibimizin sayesinde Şadırvanlı Su Kuyusu proje kapsamında Temmuz ayında Bangladeş’teki Goddimari köyünde <strong>‘Hacı Osman Akfırat Hz.’</strong> adına yaptığımız 10 çeşmeli su kuyusudur.  "
+      },
+      "203": {
+        "title": "20 ÇEŞMELİ şadırvan",
+        "date": "20/05/2021",
+        "body": "Ottoman Uluslararası Organizasyon İnşaat ve bir kardeş derneğinin resmi ortaklığında Şadırvanlı Su kuyusu Proje kapsamında Mayıs ayında Bangladeş’teki Fokirpara köyünde Ulutaş Ailesi adına açtığımız 20 çeşmeli şadırvanlı su kuyusudur."
+      }
+    },
+    "quran": {
+      "300": {
+        "title": "333 KURAN-I KERİM ORGANİZASYONU",
+        "date": "24/01/2022",
+        "body": "Kuran-I Kerim Organizasyonu proje kapsamında Ocak 2022 de Bangladeş’teki Hatibandha köyünde Hayırseverlerin adına 333 adet Kuran-I Kerim hediye edildi"
+      },
+      "301": {
+        "title": "KURAN-I KERİM ORGANİZASYONU",
+        "date": "10/2/2021",
+        "body": "Kuran-I Kerim Organizasyonu proje kapsamında Şubat ayında Bangladeş’teki Baura köyünde <strong>GÖKTUĞ SARIKURT</strong> adına 10 adet Kuran-I Kerim hediye edildi."
+      },
+      "302": {
+        "title": "KURAN-I KERİM ORGANİZASYONU",
+        "date": "15/4/2021",
+        "body": "Kuran-I Kerim Organizasyonu proje kapsamında Nisan ayında Bangladeş’teki Batısarudubi köyünde <strong>Hayırseverlerin</strong> adına 20 adet Kuran-I Kerim hediye edildi."
+      }
+    },
+    "orphan": {
+      "400": {
+        "title": "YETİM BURSU",
+        "date": "12/7/2021",
+        "body": "Yetim Destek Projesi kapsamında Bangladeş’teki Baura köyünde yetim, yoksulluk, hafızlık öğrencilerinden 7 öğrenciye Hayırseverler tarafından verilen aylık bursu çalışma ekibimizin sayesinde ulaştırıldı. 2021 Temmuz ayından başlatılan bu burs desteği, öğrencilere 24 ay boyunca verilecektir."
+      },
+      "401": {
+        "title": "YETİM BURSU",
+        "date": "12/8/2021",
+        "body": "Yetim Destek Projesi kapsamında Bangladeş’teki Baura köyünde yetim, yoksulluk, hafızlık öğrencilerinden 7 öğrenciye Hayırseverler tarafından verilen aylık bursun Aralık ayındaki miktarı çalışma ekibimizin sayesinde ulaştırıldı. 2021 Temmuz ayından başlatılan bu burs desteği, öğrencilere 24 ay boyunca verilecektir."
+      }
+    },
+    "social": {
+      "500": {
+        "title": "Meyve  Fİdan Dİkİmİ",
+        "date": "10/11/2022",
+        "body": "Organizasyonumuzun Sosyal Sorumluluk proje kapsamında Ocak ayında Bangladeş’teki Batisarudubi köyünde hayırseverlerin desteğiyle meyve fidan dikimi yapıldı."
+      },
+      "501": {
+        "title": "ERZAK DESTEĞİ",
+        "date": "15/8/2022",
+        "body": "Sosyal Sorumluluk Projesi kapsamında Ağustos ayında Bangladeş’teki Baura köyünde <strong>Engin Duman</strong> adına erzak kolisi dağıtıldı."
+      },
+      "503": {
+        "title": "BATTANİYE DAĞITIMI ORGANİZASYONU",
+        "date": "01/01/2022",
+        "body": "Proje kapsamında Ocak ayında Bangladeş’teki Fokirpara köyünde medrese-yetimhanede bir Kardeş Derneğin desteğiyle battaniye yardımı ulaşıldı."
+      }
+    },
+    "social_insaat": {
+      "600": {
+        "title": "CAMÎ PROJESİ",
+        "date": "24/11/2021",
+        "body": "Ottoman Uluslararası Organizasyon İnşaat olarak Sosyal İnşaat Projesi kapsamında Kasım ayında Bangladeş’teki Barakhata köyünde <strong>Hz Muhammad (SAV)</strong> adına açılan 100m2 Camîsidir."
+      },
+      "601": {
+        "title": "konaklama PROJESİ",
+        "date": "31/12/2021",
+        "body": "Proje kapsamında <strong>Evsizlere Konaklama Desteği</strong> adıyla başlatılan bu hizmetin sayesinde Aralık ayında Bangladeş’teki Dolapara köyünde bir ailesine 30 m2 evin anahtarını teslim ettik."
+      },
+      "602": {
+        "title": "MEDRESE VE YETİMHANE",
+        "date": "30/12/2021",
+        "body": " "
+      }
+    },
+    "kurban": {
+      "700": {
+        "title": "SADAKA KURBANI - BÜYÜKBAŞ",
+        "date": "30/6/2021",
+        "body": "Kurban Organizasyonu kapsamında Haziran ayında Bangladeş’teki Burimari köyündeki bir medresede Allah Rızası için adına bir büyükbaş kurbanı kesildi."
+      },
+      "701": {
+        "title": "ADAK KURBANI - KÜÇÜKBAŞ",
+        "date": "13/11/2021",
+        "body": "Ottoman Uluslararası Organizasyon İnşaat olarak Kurban Organizasyonu Proje kapsamında Kasım ayında Bangladeş’teki Zongra Köyünde <strong>Nazife Kaplan</strong> adına bir adak kurbanı kesildi."
+      }
+    }
+  },
+  "publisheinfo": {
+    "author": "yazar",
+    "date": "tarih",
+    "published": "yayın tarİhİ"
+  },
+  "aboutpage": {
+    "sidebartitles": {
+      "whoarewe": "bİz kİmİz",
+      "ourmission": "GÖREVİMİZ",
+      "boardofdirectors": "yönetİm kurulu",
+      "ourvalues": "değerlerİmİz"
+    },
+    "whoarewe": "Ottoman Uluslararasi Organizasyon İnşaat Şti. Ltd. 2021 yılında SHIHAB AHMED tarafından, dünyayı değiştirmek, onu daha iyi, daha adil ve daha sürdürülebilir bir yer yapmak amacı ve tutkusuyla kuruldu.",
+    "ourmission": "Maddî manevî değerlerimizin bilincinde, İnsanlığın, bilhassa Anadolu insanın ve bahusus islam ümmetinin derdiyle dertlenen ve insanlığın problemleri için çare yolları arayan gönüllülerimizin yardımlarını kurumsal bir çatı altında toplamak ve her nerede olursa olsun Müslümanların derdini derdimiz bilerek, Müslümanlar arasında ittihadı,uhuvveti ve muhabbeti sağlamak suretiyle insanlığın hizmetinde bulunmaktır",
+    "ourvalues": {
+      "sustainability": "Tüm çalışmalarımızda bugünü var ederken, yarının sorumluluğunun da üzerimizde olduğunun bilinciyle hareket ediyoruz. İhtiyaç ve isteklerimiz arasındaki ince fakat önemli çizgiyi göz önünde bulunduruyoruz",
+      "respect": "Bütün projelerimizin, özellikle de eğitimlerimizin temelinde saygı anlayışı yatıyor. Projelerimizle, bu programlara katılan insanlarda bir değişim yaratmak ve yaşamlarına bir şeyler katmak istiyoruz, bunu yaparken insanların güncel kültürlerine ve tercihlerine saygı gösteriyoruz.",
+      "transparency": "Bütün projelerimizde saygı anlayışı yattığı için bütün işleirmizi büyük bir şeffaflıkla halledeiyoruz. Vereceginiz yardımın her anını takip edebilirsiniz. Dolayısıyla ile güven sonsuzdur"
+    },
+    "ourvaluestitles": {
+      "sustainability": "sürdürülebİlİrlİk",
+      "respect": "saygı",
+      "transparency": "şeffaflık"
+    }
+  },
+  "contactpage": {
+    "contact": "Bize Ulaşın",
+    "name": "İsim",
+    "yourname": "Kurum Adı",
+    "email": "E-Posta",
+    "youremail": "Postaız",
+    "message": "Mesaj",
+    "button": "Gönder",
+    "contactlinks": "İletişim Bağlantıları",
+    "address": "Adres",
+    "director": "KURUCU BAŞKANI",
+    "assistantDirector": "BAŞKAN YARDIMCISI"
+  },
+  "shareon": "paylaş",
+  "footer": {
+    "aboutus": {
+      "title": "Hakkımızda",
+      "body": "Yolculuğumuza birkaç yıl önce tek bir hedefle başladık. Amaç, zengin ve fakir arasındaki ayrımcılığı en aza indirmektir. Kast ve inançtan bağımsız olarak, herkesin kendiliğinden gelişmesini istiyoruz. Büyük Selçuklu ve Osmanlı İmparatorluğunun ideolojisi ile geride bırakıldığı anda şanını getirmek istiyoruz. Bir gün, herkesin daha iyi bir gelecek için hayal kuracağı, açlığın olmadığı, barış dolu bir dünya yapacağız."
+    },
+    "developer": "geliştiriciyle iletişim",
+    "menu": "Menu",
+    "socialmedia": "sosyal-medya"
+  },
+  "donatepage": {
+    "title": "banka detayları",
+    "subtitle": "BAĞIŞ YAPMAK İSTEYEN HAYIRSEVERLERİN BİZİMLE İLETİŞİME GEÇİLMESİNİ RİCA OLUNUR. İLETİŞİM BİLGİLERİ İÇİN LÜTFEN BURAYA",
+    "btn": "tiklayin"
+  }
+}
